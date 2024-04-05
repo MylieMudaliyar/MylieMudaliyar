@@ -1,9 +1,9 @@
-<h2 align="left">Hi👋 , I am Mylie!</h2>
+<h1 align="left">Hi👋 , I am Mylie!</h1>
 
 ###
 
 <div align="center">
-  <img height="275" width = "700" src="https://i.pinimg.com/originals/2e/a7/c9/2ea7c9a114ab55fdf51fa7948854b9a6.gif"  />
+  <img height="300" width = "800" src="https://i.pinimg.com/originals/2e/a7/c9/2ea7c9a114ab55fdf51fa7948854b9a6.gif"  />
 </div>
 
 ###
@@ -127,9 +127,8 @@ Let's Connect! 🌐</h2>
 </div>
 
 ###
+
 <div align="center">
-  <img height="300" width = "700" src="https://i.gifer.com/Q2v1.gif"  />
+  <img height="300" width = "800" src="https://giffiles.alphacoders.com/144/14466.gif"  />
 </div>
 
-
-###
