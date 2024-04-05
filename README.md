@@ -127,6 +127,6 @@ Let's Connect! 🌐</h2>
 ###
 
 <div align="center">
-  <img height="250" width = "800" src="https://giffiles.alphacoders.com/144/14466.gif" /><figcaption>I could watch this for ever.</figcaption>
+  <img height="250" width = "800" src="https://giffiles.alphacoders.com/144/14466.gif" /><br><figcaption style="text-align: center;">I could watch this for ever.</figcaption>
 </div>
 
