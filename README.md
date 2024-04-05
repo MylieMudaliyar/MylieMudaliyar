@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋 , I am Mylie!</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm <a href="https://www.datascienceportfol.io/myliemudaliyar" >Mylie</a>!</h1>
 
 ###
 
@@ -11,18 +11,16 @@
 <h2 align="left">
 Get to know me more 🌟</h2>
 
-
-
 <p align="left">
-  <h2 align="left">
- Education 📚</h2> 
-- I have done my Bachelors in <b> Computer Science and Engineering </b> from Vellore Institute of Technology, Vellore, India.<br><br>- Moving to USA for my <b>Masters in Data Science</b>.
-  <h2 align="left">
-Interests </h2>
-<h6>Note: To be honest there are many interests, and it does get overwhelming sometimes.</h6> -I love exploring <b> Data, Maths behind Machine Learning Algorithms, Statistics, Artificial Intelligence Applications, Advancements in Natural Language Processing, Financial Engineering, and Stock Investments.</b>  <br><br>- I absolutely love </b> Reading </b> be it fictional, non-fictional, self-help, autobiography, anything and everything.<br><br>- I think <b>Music</b> and <b>Coffee</b> are better than therapy. And <b>baking</b>. That too.<br><br>- I am obsessed with topics related to <b>Space, Oceans, Psychology, Human Behaviour and Travelling</b>. I can talk for hours.<br><br>- I love <B>Photography</B>, especially of <b>Sky and Clouds</b>.<br><br>- Occasionally I write blogs and play guitar too.<br><br>-  Fun fact, I can talk to parrots.<br><br>- Ok, it's enough. Moving on.<br>
 <h2 align="left">
-Projects </h2>
-- Most of my projects involve playing with DATA DATA DATA, which you can find in the corresponding code in my Github Repositories. 
+ Education 📚</h2> 
+🎓 I have done my Bachelors in <b> Computer Science and Engineering </b> from Vellore Institute of Technology, Vellore, India.<br><br>🎓 Moving to USA for my <b>Masters in Data Science</b>.
+  <h2 align="left">
+Interests 🔭</h2>
+<h6>Note: To be honest there are many interests, and it does get overwhelming sometimes.</h6> -I love exploring <b> Data, Maths behind Machine Learning Algorithms, Statistics, Artificial Intelligence Applications, Advancements in Natural Language Processing, Financial Engineering, and Stock Investments.</b>  <br><br>- I absolutely love </b> Reading </b> be it fictional, non-fictional, self-help, autobiography, anything and everything.<br><br>- I think <b>Music</b> and <b>Coffee</b> are better than therapy. And <b>baking</b>. That too.<br><br>- I am obsessed with topics related to <b>Space, Oceans, Psychology, Human Behaviour and Travelling</b>. I can talk for hours.<br><br>- I love <B>Photography</B>, especially of <b>Sky and Clouds</b>.<br><br>- Occasionally I write blogs and play guitar too.<br><br>-  Fun fact, I can talk to parrots.<br><br>- Ok, that's enough. Moving on.<br>
+<h2 align="left">
+Projects 🚀</h2>
+- Most of my projects involve playing with <b> DATA DATA DATA </b>, and you'll get all the details and source codes in my GitHub Repositories. 
 <h2 align="left">
 <a href="https://drive.google.com/drive/folders/181vX4GXkHG2lbHOe5tPGF3fCUKaqZ6sx" >Certificates</a></h2>
 <h2 align="left">
@@ -129,6 +127,6 @@ Let's Connect! 🌐</h2>
 ###
 
 <div align="center">
-  <img height="300" width = "800" src="https://giffiles.alphacoders.com/144/14466.gif"  />
+  <img height="250" width = "800" src="https://giffiles.alphacoders.com/144/14466.gif" /><figcaption>I could watch this for ever.</figcaption>
 </div>
 
