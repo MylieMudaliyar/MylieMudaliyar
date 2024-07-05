@@ -1,16 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm <a href="https://www.datascienceportfol.io/myliemudaliyar" >Mylie</a>!</h1>
-
-###
-
+<!-- <a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Mylie+Mudaliyar" alt="Typing SVG" align ="left" /></a>
+ -->
 <div align="center">
   <img height="300" width = "800" src="https://i.pinimg.com/originals/2e/a7/c9/2ea7c9a114ab55fdf51fa7948854b9a6.gif"  />
 </div>
-
-###
-
-<h2 align="left">
-Get to know me more 🌟</h2>
-
+<h3> Check out my portfolio <a href="https://www.datascienceportfol.io/myliemudaliyar"> here</a> ! </h3>
 <p align="left">
 <h2 align="left">
  Education 📚</h2> 
