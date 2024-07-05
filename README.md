@@ -4,7 +4,7 @@
 <div align="center">
   <img height="300" width = "800" src="https://i.pinimg.com/originals/2e/a7/c9/2ea7c9a114ab55fdf51fa7948854b9a6.gif"  />
 </div>
-<h3> Check out my portfolio <a href="https://www.datascienceportfol.io/myliemudaliyar"> here</a> ! </h3>
+<h3> Check out my portfolio <a href="https://www.datascienceportfol.io/myliemudaliyar"> here</a> ! And for all the other links, check out my <a href = 'https://linktr.ee/myliemudaliyar'> linktree </a> .</h3>
 <p align="left">
 <h2 align="left">
  Education 📚</h2> 
