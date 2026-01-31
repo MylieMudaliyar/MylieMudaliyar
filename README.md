@@ -114,9 +114,9 @@ Also: I occasionally write blogs, play guitar, and yes — I can talk to parrots
   <a href="https://medium.com/@myliemudaliyar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="medium logo" />
   </a>
-  <a href="https://www.hackerrank.com/myliemudaliyar" target="_blank">
+  <!-- <a href="https://www.hackerrank.com/myliemudaliyar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo" />
-  </a>
+  </a> -->
   <a href="https://linktr.ee/myliemudaliyar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linktree logo" />
   </a>
@@ -127,10 +127,10 @@ Also: I occasionally write blogs, play guitar, and yes — I can talk to parrots
 
 ###
 
-<h2 align="left">Resources 📂</h2>
+<!-- <h2 align="left">Resources 📂</h2>
 
 - **[Resume](https://drive.google.com/file/d/1a8sFic0LeJ84JRL-PjT0bo-6ZiyhyZpT/view?usp=sharing)**
-- **[Certificates](https://drive.google.com/drive/folders/181vX4GXkHG2lbHOe5tPGF3fCUKaqZ6sx)**
+- **[Certificates](https://drive.google.com/drive/folders/181vX4GXkHG2lbHOe5tPGF3fCUKaqZ6sx)** -->
 
 ###
 
