@@ -10,9 +10,9 @@
 
 <h2 align="left">About Me 👋</h2>
 
-I'm a Data Science Master's student at **Stevens Institute of Technology** (graduating May 2026, GPA: 3.96/4.0), actively seeking full-time opportunities in **Data Science, ML Engineering, and Product Analytics** starting Summer 2026. I'm passionate about building data-driven solutions that solve real problems and create tangible impact.
+I'm an aspiring **AI Product Manager** with a background in **Data Science, Machine Learning, Analytics, and AI Engineering**.
 
-Previously, I completed my Bachelor's in **Computer Science and Engineering** from Vellore Institute of Technology, India.
+I enjoy taking products from an idea to a working solution by combining product thinking with modern AI technologies. My work focuses on building practical AI systems powered by LLMs, automation, and data rather than experimental prototypes.
 
 <h2 align="left">What I'm Working On 🚀</h2>
 
